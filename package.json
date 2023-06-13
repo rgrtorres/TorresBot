@@ -4,6 +4,7 @@
   "description": "Torres Bot",
   "main": "src/index.ts",
   "scripts": {
+    "start": "node src/index.js",
     "dev": "tsnd --respawn --transpile-only --ignore-watch node_modules -r dotenv/config src/index.ts"
   },
   "author": "Renan Torres",
