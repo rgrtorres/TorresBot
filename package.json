@@ -8,10 +8,11 @@
   },
   "author": "Renan Torres",
   "dependencies": {
+    "@types/qrcode": "^1.5.0",
     "axios": "^0.27.0",
     "node-base64-image": "^2.0.1",
+    "node-cron": "^3.0.2",
     "qrcode-terminal": "^0.12.0",
-    "@types/qrcode": "^1.5.0",
     "whatsapp-web.js": "^1.21.0"
   },
   "license": "MIT",
